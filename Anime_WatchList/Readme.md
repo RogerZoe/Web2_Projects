@@ -80,6 +80,15 @@ Anime_WatchList/
    - View comprehensive anime information
    - See episode counts and community ratings
    - Access specials and related content
+  
+## 📸 Screenshots
+
+ <img width="1880" height="836" alt="image" src="https://github.com/user-attachments/assets/7e2d2431-6af9-4a05-ac7e-105c86a48ef9" />
+ 
+ <img width="1911" height="805" alt="image" src="https://github.com/user-attachments/assets/84cb824f-8299-425e-b7c4-4967bd6ba403" />
+
+
+
 
 ## 🌐 Live Demo
 
